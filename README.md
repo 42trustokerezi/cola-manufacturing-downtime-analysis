@@ -2,7 +2,7 @@
 A cola beverage manufacturing company has been experiencing production downtime.
 I was given their productivity & downtime data in or der to provide insight to the leading causes for production downtime.
 
-## Objective
+## Objectives
 #### 1. Calculate line efficiency:
   calculate the efficiency for a production line with respect to each operator.
 
@@ -11,3 +11,8 @@ I was given their productivity & downtime data in or der to provide insight to t
 
 ### 3. Calculate downtime by operator & factor:
   calculate the total downtime by operator for each of the main factors.
+
+## Processes
+### Calculate line efficiency:
+. in order to know the production time for each product, a new column "Batch time" was created in the Line productivity tab capturing the difference between "Start time" and "End time".
+. 
