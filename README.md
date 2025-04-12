@@ -24,3 +24,9 @@ I was given their productivity & downtime data in or der to provide insight to t
 - To highlight major factors for production delays, I had to sort Down time factors in descending order.
 - A Pareto column was created to calculate the cumulative percentage of downtime per factor, displaying distribution of downtime across all factors.
 - A Pareto chart was created, highlighting 20% of factors that cause 80% of the downtime.
+
+### Identifiying types of Operator error each Operator is struggling with
+- An "Operator" column was introduced in the "Line downtime" tab, using a lookup function to map each downtime entry to its corresponding operator.
+- The total downtime for each operator by factor was calculated, helping pinpoint where the most significant inefficiencies are occurring.
+- Conditional formatting was applied to highlight key downtime factors for each operator, making it easy to spot areas requiring immediate attention.
+
