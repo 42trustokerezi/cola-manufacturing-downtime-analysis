@@ -33,3 +33,6 @@ I was given their productivity & downtime data in or der to provide insight to t
 - The total downtime for each operator by factor was calculated, helping pinpoint where the most significant inefficiencies are occurring.
 - Conditional formatting was applied to highlight key downtime factors for each operator, making it easy to spot areas requiring immediate attention.
 
+## View Dashboard
+<img width="1296" alt="Dashboard" src="https://github.com/user-attachments/assets/f0c5793d-677b-4576-9d84-3a8931047a9b" />
+
