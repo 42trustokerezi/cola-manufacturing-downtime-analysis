@@ -17,3 +17,10 @@ I was given their productivity & downtime data in or der to provide insight to t
 - in order to know the production time for each product, a new column "Batch time" was created in the Line productivity tab capturing the difference between "Start time" and "End time".
 - Using XLOOKUP, the "Min time" was deduced by looking up corresponding values in the "Products" tab. with this information I was able to discover the least amount of time required to produce a product.
 - Calculating efficiency of each operator was made possible by dividing the sum of "Min Time" by the sum of "Batch Time". This provided insight into how effectively each operator used their time.
+- Efficiency of each operator was visualised using a bar chart. This made comparing each operator's performance easy.
+
+### Identifying leading factors of downtime
+- "Downtime" column was created in the "Downtime factors" tab. It contains the sum of downtime for each factor using data from "Line efficiency" tab.
+- To highlight major factors for production delays, I had to sort Down time factors in descending order.
+- A Pareto column was created to calculate the cumulative percentage of downtime per factor, displaying distribution of downtime across all factors.
+- A Pareto chart was created, highlighting 20% of factors that cause 80% of the downtime.
