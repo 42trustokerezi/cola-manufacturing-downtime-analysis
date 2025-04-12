@@ -3,6 +3,7 @@ A cola beverage manufacturing company has been experiencing production downtime.
 I was given their productivity & downtime data in or der to provide insight to the leading causes for production downtime.
 
 ## Dataset used
+<a href =https://github.com/42trustokerezi/cola-manufacturing-downtime-analysis/blob/main/Manufacturing_Line_Productivity.xlsx>Cola Manufacturing Line Productivity Data</a>
 
 ## Objectives
 ### 1. Calculate line efficiency:
